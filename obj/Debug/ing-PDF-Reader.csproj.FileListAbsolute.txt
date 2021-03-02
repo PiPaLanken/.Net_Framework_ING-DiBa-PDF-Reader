@@ -1,0 +1,10 @@
+E:\VisualProjekt\ing-PDF-Reader\bin\Debug\ing-PDF-Reader.exe.config
+E:\VisualProjekt\ing-PDF-Reader\bin\Debug\ing-PDF-Reader.exe
+E:\VisualProjekt\ing-PDF-Reader\bin\Debug\ing-PDF-Reader.pdb
+E:\VisualProjekt\ing-PDF-Reader\obj\Debug\ing-PDF-Reader.csprojAssemblyReference.cache
+E:\VisualProjekt\ing-PDF-Reader\obj\Debug\ing_PDF_Reader.Main.resources
+E:\VisualProjekt\ing-PDF-Reader\obj\Debug\ing_PDF_Reader.Properties.Resources.resources
+E:\VisualProjekt\ing-PDF-Reader\obj\Debug\ing-PDF-Reader.csproj.GenerateResource.cache
+E:\VisualProjekt\ing-PDF-Reader\obj\Debug\ing-PDF-Reader.csproj.CoreCompileInputs.cache
+E:\VisualProjekt\ing-PDF-Reader\obj\Debug\ing-PDF-Reader.exe
+E:\VisualProjekt\ing-PDF-Reader\obj\Debug\ing-PDF-Reader.pdb
